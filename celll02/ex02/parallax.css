@@ -1,0 +1,52 @@
+.parallax-nassim {
+	background-image: url("/mnt/nfs/homes/wnaseeve/nsalhi.jpg");
+	height: 1200px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+	content: flex;
+	display: flex;
+}
+
+.parallax-nserve {
+	background-image: url("/mnt/nfs/homes/wnaseeve/nserve.jpg");
+	height: 1200px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+	content: flex;
+	display: flex;
+}
+
+.black-case {
+	background-color: black;
+	height: 150px;
+
+}
+
+#center {
+	text-align: center;
+	color: rgb(149, 168, 56);
+	margin: auto;
+	letter-spacing: 1px;
+	font-size: 100px;
+}
+
+#nsalhi {
+	text-align: center;
+	color: rgb(149, 168, 56);
+	font-size: 25px;
+}
+
+#nserve {
+	text-align: center;
+	color: rgb(149, 168, 56);
+	margin: auto;
+	font-size: 25px;
+}

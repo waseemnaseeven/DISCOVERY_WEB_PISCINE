@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	width: 400px;
+}
+
+
+table {
+	background-image: url("/mnt/nfs/homes/wnaseeve/was.jpeg");
+	height: 400px;
+	width: 400px;
+	margin-top: 20px;
+	border: 2px solid rgb(200,200,200);
+	display: table-cell;
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
